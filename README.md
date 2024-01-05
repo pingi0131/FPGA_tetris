@@ -6,5 +6,5 @@ Input/Ouput unit:
 1.
 
 ![My Image](images/IMG_4616.jpg)
-![My Image](images/截圖 2024-01-05 下午5.40.54.png)
+![My Image](images/wahhh)
 ![image](images/截圖 2024-01-05 下午5.40.54.png)
