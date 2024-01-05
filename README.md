@@ -42,9 +42,5 @@ module tetris(//input Count,
 			output reg [0:7] line =8'b00101101,	//消除條數
 			input CLK);
 4. 影片介紹：
-
-   images/cover.jpg
+   
    [<img src="images/cover.jpg" alt="影片截圖" width="200">](https://drive.google.com/file/d/1pWDKqXbMMZ8wtLq7nRrvzvhG4Ytu4B4y/view)
-
-<!--[<img src="images/cover.jpg" alt="影片截圖" width="200">](https://drive.google.com/file/d/1pWDKqXbMMZ8wtLq7nRrvzvhG4Ytu4B4y/view)
--->
