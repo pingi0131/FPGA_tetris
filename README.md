@@ -5,7 +5,7 @@ Authors:111321005鍾亦翰 111321024林秉儀
 Input/Ouput unit:
 1.
 
-![My Image](IMG_4618.HEIC)
+![My Image](images/IMG_4616.jpg)
 
 ![image](IMG_4618.HEIC)
 
