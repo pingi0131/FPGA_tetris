@@ -43,4 +43,4 @@ module tetris(//input Count,
 			input CLK);
 4. 影片介紹：
    
-[<img src="images/cover" alt="影片截圖" width="200">](https://drive.google.com/file/d/1pWDKqXbMMZ8wtLq7nRrvzvhG4Ytu4B4y/view)
+[<img src="images/cover.jpg" alt="影片截圖" width="200">](https://drive.google.com/file/d/1pWDKqXbMMZ8wtLq7nRrvzvhG4Ytu4B4y/view)
