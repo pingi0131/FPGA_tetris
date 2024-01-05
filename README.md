@@ -10,6 +10,7 @@ Authors:111321005鍾亦翰 111321024林秉儀
 	<img src="./images/IMG_4617.jpg" alt="Editor" width="200">
 </div>
 -->
+
 * LED燈顯示累計消掉條數
 <img src="images/IMG_4617.jpg" alt="My Image" width="200">
 * 七段顯示器顯示目前等級，跟消掉條數有關，用於控制方塊掉落速度
