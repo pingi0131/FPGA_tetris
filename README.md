@@ -1,7 +1,7 @@
 
 
 Authors:111321005鍾亦翰 111321024林秉儀
-1. Input/Ouput unit:
+1. Input/Ouput 說明:
 * 初始畫面，方塊會從圖片上方落下
 <img src="images/wahhh" alt="My Image" width="200">
 <!-- ![image](images/wahhh) -->
@@ -22,4 +22,9 @@ Authors:111321005鍾亦翰 111321024林秉儀
 * line[0:7] -> LED
 * DATA_R,DATA_G,DATA_B -> 接到8x8LED
 * enable,com[0:2] -> 接到8x8LED控制
+
 遊戲說明：規則同俄羅斯方塊。方塊由上落下，一整排集滿會消掉，LED顯示條數加一。預設每消三條等級升一等。四個按鈕由左而右依序控制旋轉、左移、右移、加速下降。堆疊到頂部後遊戲結束，顯示結束畫面。
+
+程式模組說明：
+
+Demo：
