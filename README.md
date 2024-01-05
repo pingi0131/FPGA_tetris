@@ -7,7 +7,7 @@ Input/Ouput unit:
 
 ![My Image](images/IMG_4616.jpg)
 
-![image]([IMG_4618.HEIC](https://github.com/pingi0131/FPGA_tetris/blob/main/images/IMG_4616.jpg))
+![image](images/IMG_4616.jpg)
 https://github.com/pingi0131/FPGA_tetris/blob/main/images/IMG_4616.jpg
 ![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/pingi0131/FPGA_tetris/blob/main/IMG_4620.HEIC)?raw=true)
 
