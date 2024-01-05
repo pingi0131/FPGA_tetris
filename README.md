@@ -42,7 +42,4 @@ module tetris(//input Count,
 			output reg [0:7] line =8'b00101101,	//消除條數
 			input CLK);
 4. Demo：
-<!--[![影片截圖](lalalal)]([<video_link>](https://drive.google.com/drive/u/0/mobile/folders/1TPr3l19FWopSZCR4EhKbmnqSqN5vgd-f/1HXuILipmP1iHlS1PABaJcwDVFy2SDqtY?sort=13&direction=a))
--->
-[<img src="lalalal" width="200">]([<video_link>](https://drive.google.com/drive/u/0/mobile/folders/1TPr3l19FWopSZCR4EhKbmnqSqN5vgd-f/1HXuILipmP1iHlS1PABaJcwDVFy2SDqtY?sort=13&direction=a))
-[demo_vedio](https://drive.google.com/drive/u/0/mobile/folders/1TPr3l19FWopSZCR4EhKbmnqSqN5vgd-f/1HXuILipmP1iHlS1PABaJcwDVFy2SDqtY?sort=13&direction=a)
+[![影片截圖](images/IMG_4620.jpg)](https://drive.google.com/file/d/1pWDKqXbMMZ8wtLq7nRrvzvhG4Ytu4B4y/view)
