@@ -41,5 +41,6 @@ module tetris(//input Count,
 			output reg [0:6] seg = 7'b0000001,	//七段顯示器用於顯示目前等級
 			output reg [0:7] line =8'b00101101,	//消除條數
 			input CLK);
-4. Demo：
+4. 影片介紹：
+   
 [<img src="images/IMG_4620.jpg" alt="影片截圖" width="200">](https://drive.google.com/file/d/1pWDKqXbMMZ8wtLq7nRrvzvhG4Ytu4B4y/view)
