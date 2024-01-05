@@ -7,6 +7,6 @@ Input/Ouput unit:
 <div align="left">
 	<img src="./images/IMG_4616.jpg" alt="Editor" width="500">
 </div>
-![My Image](images/IMG_4616.jpg =300)
+![My Image](images/IMG_4616.jpg)
 ![My Image](images/wahhh)
 ![image](images/wahhh)
