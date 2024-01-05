@@ -28,3 +28,4 @@ Authors:111321005鍾亦翰 111321024林秉儀
 程式模組說明：
 
 Demo：
+[demo_bedio](https://drive.google.com/drive/u/0/mobile/folders/1TPr3l19FWopSZCR4EhKbmnqSqN5vgd-f/1HXuILipmP1iHlS1PABaJcwDVFy2SDqtY?sort=13&direction=a)
