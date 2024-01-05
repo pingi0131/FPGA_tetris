@@ -17,4 +17,4 @@ Input/Ouput unit:
 <img src="images/IMG_4617.jpg" alt="My Image" width="200">
 
 * 結束畫面
-<img src="images/IMG_4621.jpg" alt="My Image" width="200">
+<img src="images/IMG_4620.jpg" alt="My Image" width="200">
