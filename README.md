@@ -1,6 +1,6 @@
 
 
-Authors:111321005鍾亦翰 111321024林秉儀
+Authors: 111321024林秉儀 111321005鍾亦翰
 1. Input/Ouput 說明:
 * 初始畫面，方塊會從圖片上方落下
 <img src="images/wahhh" alt="My Image" width="200">
